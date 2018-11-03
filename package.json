@@ -9,7 +9,8 @@
     "serve": "node build/index.js",
     "start": "npm run serve",
     "test": "jest",
-    "test:watch": "jest --watch"
+    "test:watch": "jest --watch",
+    "prettify": "prettier --write './src/**/*.{ts,tsx}'"
   },
   "author": "Hewon Jeong",
   "license": "ISC",
