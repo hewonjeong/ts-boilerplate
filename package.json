@@ -13,7 +13,11 @@
   "license": "ISC",
   "repository": "https://github.com/HewonJeong/ts-boilerplate.git",
   "devDependencies": {
+    "eslint": "^5.8.0",
+    "prettier": "^1.14.3",
     "ts-node-dev": "^1.0.0-pre.30",
+    "tslint-config-airbnb": "^5.11.0",
+    "tslint-config-prettier": "^1.15.0",
     "typescript": "^3.1.6"
   }
 }
