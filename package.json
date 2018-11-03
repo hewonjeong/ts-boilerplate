@@ -1,11 +1,12 @@
 {
   "name": "crawler",
   "version": "1.0.0",
-  "description": "",
+  "description": "🐣 Tiny TypeScript + Node.js boilerplate",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Hewon Jeong",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": "https://github.com/HewonJeong/ts-boilerplate.git"
 }
