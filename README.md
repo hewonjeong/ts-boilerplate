@@ -28,3 +28,7 @@ yarn install
 | `test`       | Runs tests                                                                            |
 | `test:watch` | Runs tests in watch mode                                                              |
 | `prettify`   | run prettier                                                                          |
+
+## Alternatives
+
+- If you want to create a SPA with React in TypeScript, consider starting with [create-react-app](https://github.com/facebook/create-react-app) with following [this guide](https://facebook.github.io/create-react-app/docs/adding-typescript#docsNav)`
