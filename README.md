@@ -6,8 +6,8 @@
 
 - TypeScript3.1
 - TSLint with `tslint-config-airbnb` config
-- Pretter and pre-commit hook
-- Test configuration using Jest
+- Prettier and pre-commit hook
+- Test configurations using Jest
 
 ## Getting Started
 
@@ -31,4 +31,4 @@ yarn install
 
 ## Alternatives
 
-- If you want to create a SPA with React in TypeScript, consider starting with [create-react-app](https://github.com/facebook/create-react-app) with following [this guide](https://facebook.github.io/create-react-app/docs/adding-typescript#docsNav)`
+- If you want to create a SPA with React in TypeScript, consider starting with [create-react-app](https://github.com/facebook/create-react-app) with following [this guide](https://create-react-app.dev/docs/adding-typescript/)`
