@@ -4,7 +4,7 @@
 
 ## What’s Included?
 
-- TypeScript3.1
+- TypeScript 3.7
 - TSLint with `tslint-config-airbnb` config
 - Prettier and pre-commit hook
 - Test configurations using Jest
